@@ -88,6 +88,7 @@ Through this project I learned:
 
 - GitHub: https://github.com/Sachin-K-0672
 - LinkedIn: https://www.linkedin.com/in/sachin-k-3865a8380/
+- Live Demo: https://sachin-k-dev-0672.netlify.app/
 
 ---
 
